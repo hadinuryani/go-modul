@@ -1,3 +1,3 @@
-module github.com/hadinuryani/go-modul.git
+module github.com/hadinuryani/go-modul
 
 go 1.25.5
